@@ -1,5 +1,7 @@
 # Game 02 – Gilded Rose Kata (PHP)
 
+image
+
 ## Descripción general
 
 Este módulo corresponde a la resolución del **Gilded Rose Kata**, un ejercicio clásico de refactorización y lógica de negocio.  
