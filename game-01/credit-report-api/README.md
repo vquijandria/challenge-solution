@@ -1,5 +1,6 @@
 # 📊 Credit Report Export API (Game 01)
 
+<img width="1462" height="801" alt="image" src="https://github.com/user-attachments/assets/1bc798b6-b30b-44ba-a279-067d33094c33" />
 
 
 ## 📌 Descripción general
