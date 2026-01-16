@@ -127,7 +127,8 @@ OK (3 tests, 3 assertions)
 
  Evidencia de tests pasando
 
-<img width="586" height="160" alt="Screenshot 2026-01-15 210115" src="https://github.com/user-attachments/assets/f703251d-593c-4b79-9f25-ddb18258c0a9" />
+<img width="586" height="160" alt="Screenshot 2026-01-15 210115" src="https://github.com/user-attachments/assets/be1eb179-2eed-4f8c-bb01-f4f85f94d7a3" />
+
 
 Qué se hizo en Game 02
 
