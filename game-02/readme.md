@@ -1,6 +1,7 @@
 # Game 02 – Gilded Rose Kata (PHP)
 
-image
+<img width="586" height="160" alt="Screenshot 2026-01-15 210115" src="https://github.com/user-attachments/assets/8fbff533-b23a-4141-9bf9-1207be725110" />
+
 
 ## Descripción general
 
